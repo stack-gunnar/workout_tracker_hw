@@ -23,7 +23,7 @@
 <a name="video"></a>
 # Video of how it works.
 
-[![Workout Tracker](https://drive.google.com/file/d/14WQjv_uJIXWLkPEeJ9kgMw-En7sbaWS5/view)
+[Workout Tracker](https://drive.google.com/file/d/14WQjv_uJIXWLkPEeJ9kgMw-En7sbaWS5/view)
 
 <a name="link"></a>
 ## Link
